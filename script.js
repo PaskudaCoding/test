@@ -4,10 +4,11 @@ request.open('GET', requestURL)
 request.responseType = "json"
 request.send()
 request.onload = function(){
-    var
+    var array = request.response
+    console.log(array)
 }
 
 
 
-let array = [1, 2, 3, 4, 5]
+// let array = [1, 2, 3, 4, 5]
 
