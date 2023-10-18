@@ -1,2 +1,2 @@
-let a = 10
+let arrayy = [1, 2, 3, 4]
 
